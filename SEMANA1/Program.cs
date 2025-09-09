@@ -10,12 +10,7 @@ namespace SEMANA1
     {
         static void Main(string[] args)
         {
-            ejer1();
             ejer2();
-            ejer3();
-            ejer4();
-            ejer5();
-            ejer6();
             Console.ReadKey();
         }
         static void ejer1()
@@ -30,7 +25,7 @@ namespace SEMANA1
         }
         static void ejer2()
         {
-
+            Console.WriteLine("\"Gabriel\"");
         }
         static void ejer3()
         {
