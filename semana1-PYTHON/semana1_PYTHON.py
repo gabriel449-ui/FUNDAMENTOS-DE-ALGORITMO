@@ -35,6 +35,19 @@ def ejer4():
 
 ejer4()
 
+def ejer5():
+    num = input("Ingrese un numero: ")
+
+    entero = int(num)
+    decim = float(num)
+
+    print("rest: ", (entero % 2))
+    print("decimal: ", (deci / 3))
+
+ejer5()
+
+
+
 
 
 

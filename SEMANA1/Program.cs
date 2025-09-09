@@ -10,7 +10,7 @@ namespace SEMANA1
     {
         static void Main(string[] args)
         {
-            ejer4();
+            ejer5();
             Console.ReadKey();
         }
         static void ejer1()
@@ -61,7 +61,15 @@ namespace SEMANA1
         }
         static void ejer5()
         {
+            Console.WriteLine("Ingrese un numero: ");
+            string num = Console.ReadLine();
 
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+
+            Console.WriteLine("resto: " + (entero % 2));
+            Console.WriteLine("decimal: " + (deci / 3));
+            Console.ReadKey();
         }
         static void ejer6()
         {
