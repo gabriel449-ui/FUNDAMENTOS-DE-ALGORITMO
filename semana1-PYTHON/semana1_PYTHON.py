@@ -19,6 +19,23 @@ def ejer3():
 
 ejer3()
 
+import math #importando libreria math
+def ejer4():
+    num = float(input("Ingrese el numero decimal: "))
+
+    raiz = math.sqrt(num)
+    redo = round(num, 2)
+    cubo = math.pow(num, 3)
+    cubica = num ** (1/3)
+
+    print("raiz cuadrada: ",raiz)
+    print("redondeado: ",redo)
+    print("elevado a la 3: ",cubo)
+    print("raiz cubica: ",cubica)
+
+ejer4()
+
+
 
 
  
