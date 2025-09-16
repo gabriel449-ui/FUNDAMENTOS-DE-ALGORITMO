@@ -14,3 +14,11 @@ C:\Users\UPN\Desktop\semana 4 sanchez\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug
 C:\Users\UPN\Desktop\semana 4 sanchez\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug\SEMANA1.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\semana 4 sanchez\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug\SEMANA1.exe
 C:\Users\UPN\Desktop\semana 4 sanchez\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug\SEMANA1.pdb
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\bin\Debug\SEMANA1.exe.config
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\bin\Debug\SEMANA1.exe
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\bin\Debug\SEMANA1.pdb
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug\SEMANA1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug\SEMANA1.exe.config
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug\SEMANA1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug\SEMANA1.exe
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA1\obj\Debug\SEMANA1.pdb

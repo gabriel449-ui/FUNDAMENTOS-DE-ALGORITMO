@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA 4_C#\bin\Debug\SEMANA 4_C#.exe.config
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA 4_C#\bin\Debug\SEMANA 4_C#.exe
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA 4_C#\bin\Debug\SEMANA 4_C#.pdb
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA 4_C#\obj\Debug\SEMANA 4_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA 4_C#\obj\Debug\SEMANA 4_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA 4_C#\obj\Debug\SEMANA 4_C#.exe
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA 4_C#\obj\Debug\SEMANA 4_C#.pdb
+C:\Users\UPN\Desktop\clase2\FUNDAMENTOS-DE-ALGORITMO\SEMANA 4_C#\obj\Debug\SEMANA 4_C#.exe.config
